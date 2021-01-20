@@ -1,0 +1,14 @@
+ 
+    .side-nav {
+
+    }
+.navbar-inverse .navbar-nav > li > a {
+  color: white;
+}
+
+.top-nav>li>a {
+    color: white;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+	color: white;}
